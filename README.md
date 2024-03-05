@@ -5,8 +5,6 @@
 Antes de começar, você precisa ter o Node.js e o npm (Node Package Manager) instalados em sua máquina. Para verificar a instalação, execute:
 
 ```
-bash
-Copy code
 node --version
 npm --version
 ```
